@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: dpp-python-library-shopAssistant
+Version: 0.1
+Summary: An example python package - DPP PWr ShopAssistant
+Home-page: https://git.e-science.pl/wwojcik235621/dpp_python_library_shopAssistant
+Author: Wojciech Wójcik
+Author-email: 235621@student.pwr.edu.pl
+License: MIT
+Description: This is python library. Created for lesson on PWr W4 DPP.
+        
+        Created based on https://github.com/BillMills/pythonPackageLesson
+Platform: UNKNOWN

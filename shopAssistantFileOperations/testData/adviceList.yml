@@ -1,0 +1,15 @@
+---
+-
+  ingredients:
+    - ad
+    - dsd
+  mealType: Breakfast
+  name: kanapka
+  vegetarian: false
+-
+  ingredients:
+    - ad
+    - asdadadsa
+  mealType: Lunch
+  name: bigos
+  vegetarian: true

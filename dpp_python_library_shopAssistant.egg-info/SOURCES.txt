@@ -1,0 +1,14 @@
+MANIFEST.in
+README.txt
+setup.py
+dpp_python_library_shopAssistant.egg-info/PKG-INFO
+dpp_python_library_shopAssistant.egg-info/SOURCES.txt
+dpp_python_library_shopAssistant.egg-info/dependency_links.txt
+dpp_python_library_shopAssistant.egg-info/requires.txt
+dpp_python_library_shopAssistant.egg-info/top_level.txt
+shopAssistant/__init__.py
+shopAssistant/advice.py
+shopAssistant/mealsTypes.py
+shopAssistantFileOperations/__init__.py
+shopAssistantFileOperations/fileOperations.py
+shopAssistantFileOperations/testData/adviceList.yml
