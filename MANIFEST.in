@@ -1,1 +1,1 @@
-include shopAssistantFileOperations/testData/adviceList.yml
+include shopAssistant/yamlOperations/testData/adviceList.yml

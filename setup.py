@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 
 setup(
     name='dpp_python_library_shopAssistant',
-    version='0.1',
-    packages=find_packages(exclude=['tests*']),
+    version='0.1.1',
+    packages=find_packages(),
     license='MIT',
     description='An example python package - DPP PWr ShopAssistant',
     long_description=open('README.txt').read(),
