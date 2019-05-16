@@ -10,5 +10,6 @@ setup(
     install_requires=['pyyaml'],
     url='https://git.e-science.pl/wwojcik235621/dpp_python_library_shopAssistant',
     author='Wojciech Wójcik',
-    author_email='235621@student.pwr.edu.pl'
+    author_email='235621@student.pwr.edu.pl',
+    include_package_data=True
 )
