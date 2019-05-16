@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='dpp_python_library_shopAssistant',
-    version='0.1.1',
+    version='0.2',
     packages=find_packages(),
     license='MIT',
     description='An example python package - DPP PWr ShopAssistant',
