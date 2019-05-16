@@ -1,15 +1,28 @@
----
--
+- !!python/object:shopAssistant.advice.Advice
   ingredients:
-    - ad
-    - dsd
-  mealType: Breakfast
-  name: kanapka
-  vegetarian: false
--
+  - ing1
+  - ing2
+  mealType: !!python/object/apply:shopAssistant.mealsTypes.MealType
+  - 4
+  name: all
+- !!python/object:shopAssistant.advice.Advice
   ingredients:
-    - ad
-    - asdadadsa
-  mealType: Lunch
-  name: bigos
-  vegetarian: true
+  - ing4
+  - ing9
+  mealType: !!python/object/apply:shopAssistant.mealsTypes.MealType
+  - 3
+  name: dinner
+- !!python/object:shopAssistant.advice.Advice
+  ingredients:
+  - ing3
+  - ing7
+  mealType: !!python/object/apply:shopAssistant.mealsTypes.MealType
+  - 2
+  name: lunch
+- !!python/object:shopAssistant.advice.Advice
+  ingredients:
+  - ing5
+  - ing8
+  mealType: !!python/object/apply:shopAssistant.mealsTypes.MealType
+  - 1
+  name: breakfast
